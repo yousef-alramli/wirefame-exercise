@@ -1,0 +1,93 @@
+header { 
+background-color: rgb(121, 121, 121);
+padding: 20px;
+margin-bottom: 20px;
+
+}
+header > div {
+    margin-top: 30px;
+    float: right;
+
+}
+
+a {
+    
+    padding: 30px;
+    padding-right: 250px;
+    text-decoration: none;
+    position: relative;
+    color: black;
+
+}
+a:hover{
+
+    color: blanchedalmond;
+    background-color: black;
+
+}
+
+section:first-child > img{
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+
+}
+
+.threepics {
+    text-align: center;
+    float: left;
+    margin-left: 280px;
+    margin-right: -250px ;
+    margin-top: 20px;
+}
+
+
+.last {
+    float: left;
+    width: 33%;
+    padding-left: 280px ;
+}
+
+#rdsection{
+    width: 30%;
+    float: right;
+    padding-left: 0px;
+    overflow: scroll;
+    height: 350px;
+    margin-right: 282px;
+}
+
+#action{
+    background-color: black;
+    padding-left: 10px;
+    padding-right: 40px;
+    width: 40px;
+    height: 33px;
+    color: silver;
+    float: right;
+    margin-right: 647px;
+
+
+}
+footer{
+    
+
+clear: both;
+position: relative;
+height: 200px;
+margin-top: -200px;
+background-color: black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
